@@ -7,4 +7,4 @@ This code is written in MATLAB.
 Please refer to Kang et al., 2024, "Loss of Katnal2 leads to ependymal ciliary hyperfunction and autism-related phenotypes in mice", Plos Biology, for further information.  
   
 # Example
-The video for example was recorded ex vivo for the movements of cilia located in the lateral ventricular ependymal cell layer under oxygenated and pH-adjusted conditions. We provide 4 lines across the ependymal cell linings for ROI generation. 33 ROIs of size 11 x 11 pixels, spaced 30 pixels apart, were generated and used in the example.
+The video for example(download: https://drive.google.com/file/d/1cI8SsSTgu7rzq_Z_2Sl-e5SgIccd3Es3/view?usp=sharing) was recorded ex vivo for the movements of cilia located in the lateral ventricular ependymal cell layer under oxygenated and pH-adjusted conditions. We provide 4 lines across the ependymal cell linings for ROI generation. 33 ROIs of size 11 x 11 pixels, spaced 30 pixels apart, were generated and used in the example.
